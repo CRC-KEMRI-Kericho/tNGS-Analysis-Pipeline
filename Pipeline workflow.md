@@ -5,4 +5,5 @@ TB targeted next-generation sequencing is a molecular drug-susceptibility testin
 
 ## Analysis Workflow
 
-<img width="1122" height="1402" alt="tNGS_workflow" src="https://github.com/user-attachments/assets/28aeaf43-522b-4e8c-8dea-92d3991fd8f0" />
+<img width="1024" height="1536" alt="ChatGPT Image Aug 24, 2026, 08_18_59 AM" src="https://github.com/user-attachments/assets/fed65248-254c-462e-9c80-2c808b860a03" />
+
