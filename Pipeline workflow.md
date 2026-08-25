@@ -1,4 +1,4 @@
-# tNGS Analysis pipeline
+# tNGS Data Analysis
 
 The analysis focuses on characterising the molecular drug-susceptibility profile of Mycobacterium tuberculosis using targeted next-generation sequencing (tNGS) data from genomic regions associated with antimicrobial resistance. Sequence variants are detected and interpreted against validated resistance catalogues to predict susceptibility or resistance to multiple anti-TB drugs simultaneously.
 
