@@ -1,4 +1,4 @@
-#Targeted Next Generation Sequencing (tNGS)
+# Targeted Next Generation Sequencing (tNGS)
 
 TB targeted next-generation sequencing is a molecular drug-susceptibility testing approach that uses massively parallel sequencing of selected Mycobacterium tuberculosis genomic regions associated with antimicrobial resistance, often directly from clinical specimens, followed by variant detection and interpretation against validated resistance catalogues to predict susceptibility or resistance to multiple anti-TB drugs simultaneously.
 
