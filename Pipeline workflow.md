@@ -12,7 +12,7 @@ TB targeted next-generation sequencing (tNGS) is a molecular drug-susceptibility
 
 # Summary Report
 
-[Summary Report Sample]()
+[Summary Report Sample](https://github.com/CRC-KEMRI-Kericho/tNGS-Analysis-Pipeline/blob/main/TB_tNGS_Summary_Report.pdf)
 
 
 ---
